@@ -62,7 +62,7 @@ CREATE TABLE `roles` (
 ```
 
 ## Built With
-* [MySQL2] (https://www.npmjs.com/package/mysql2)
+* [MySQL2](https://www.npmjs.com/package/mysql2)
 * [Node.js](https://nodejs.org/en/)
 * [npmjs](https://docs.npmjs.com/)
 * [inquirer](https://www.npmjs.com/package/inquirer)
