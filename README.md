@@ -1,10 +1,10 @@
-# Emp# employee-tracker
+# employee-tracker
 
 ## Summary 
 Employee Tracker is a CLI applicaiton for building and maintaining companies employee data base. Employee allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.
 
 ## Demo
-![Site]() 
+![Site](https://github.com/al1879083/Employeetracker) 
 
 ## Getting Started
 
@@ -71,5 +71,4 @@ CREATE TABLE `roles` (
 
 **Adrian Landa**
 
-- [Link to Github](Adrian Landa)
-- 
+- [Link to Github](https://github.com/al1879083/Employeetracker))
